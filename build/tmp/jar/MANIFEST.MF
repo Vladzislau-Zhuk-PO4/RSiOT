@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+mainClassName: com.vlad.labs.SpringJpaRestKotlin1ApplicationKt
+
